@@ -60,6 +60,10 @@
     margin-top: .5em;
     align-items: center;
 }
+#erro {
+    color:brown;
+    font-size: 14px;
+}
 
 .erro__imagem {
     width: 16px;
